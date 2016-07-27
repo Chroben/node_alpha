@@ -1,0 +1,19 @@
+{
+  "name": "projectalpha",
+  "version": "0.0.1",
+  "description": "A NodeJS Application written by Joseph Cummings, all rights reserved and all code used is to be under the privacy and discretion of Mr Joseph Cummings.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chroben/node_alpha.git"
+  },
+  "author": "Joseph Cummings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chroben/node_alpha/issues"
+  },
+  "homepage": "https://github.com/Chroben/node_alpha#readme"
+}
